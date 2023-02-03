@@ -44,3 +44,9 @@ diagram.add_link(4, 5, color="red")
 diagram.plot()
 ```
 ![diagram](https://user-images.githubusercontent.com/60096547/216622782-e3b33e9c-ee3a-49fe-b26c-f4e5daecbda8.png)
+
+## pyRecaty - GUI
+
+## configs.py Parameters
+
+This file contains the different parameters allowing to modify the diagram, here it is given simple description of each parameter :
