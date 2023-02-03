@@ -47,6 +47,11 @@ diagram.plot()
 
 ## pyRecaty - GUI
 
+For fun, and for people non familiar with python usage, I create a GUI interface for recaty (It is still necessary to install Python 3.10.+) which give the user four different buttons. The two first allow to add level indicating the level, order, enrgy, label, color (Add level), and adding links, indicating the ID of each level? The user can also modify the parameters inside the configs.py file using the configurations button that will modify the plot. The plot button, will display the diagram with the different level and links.   
+
+![recatygui](https://user-images.githubusercontent.com/60096547/216627703-03604a12-c70f-463e-a208-97cf26a794b2.png)
+
+
 ## configs.py Parameters
 
 This file contains the different parameters allowing to modify the diagram, here it is given simple description of each parameter :
