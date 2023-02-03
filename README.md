@@ -4,7 +4,11 @@ A simple and felxible python script to plot multiple chemical reactive pahtways.
 
 ## Requirements
 
+You must have an environement with Matplotlib (tkinter for the interface). In the reposotery the environment.yml allows to create an environement with Matplotlib 3.6.2. 
+
 ## Customization
+
+They are many parameters in the configs.py file that can be tune to modify the diagram. At the end of the README.md file there is a explanation for all the different parameters. 
 
 ## Example 
 
