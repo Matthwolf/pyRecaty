@@ -59,3 +59,35 @@ For fun, and for people non familiar with python usage, I create a GUI interface
 ## configs.py Parameters
 
 This file contains the different parameters allowing to modify the diagram, here it is given simple description of each parameter :
+
+| Parameter | Description |
+|-----------|-------------|
+| plot_height | Heigth of the plot |
+| plot_width | Width of the plot |
+| plot_dpi | DPI of the plot |
+| plot_font | Font of the plot |
+| y_min | Minimum of the y axis |
+| y_max | Maximum of the y axis |
+| energy_axis_label | Label of the y axis |
+| energy_axis_label_fontsize | Fontsize of the y axis label |
+| energy_axis_label_fontweight | Fontweight of the y axis label |
+| energy_axis_ticks_fontsize | Fontsize of the y axis ticks |
+| energy_axis_ticks_width | Width of the y axis ticks |
+| energy_axis_ticks_length | Length of the y axis ticks |
+| energy_tags_color | Color of the level energy label |
+| energy_tags_fontsize | Fontsize of the level energy label |
+| energy_tags_fontweight | Fontweigth of the level energy label |
+| energy_tags_offset | Off-set (in the y direction) of the level energy label |
+| energy_tags_padding | Padding (in the x direction) of the level energy label |
+| level_labels_color | Color of the level label |
+| level_labels_fontsize | Fontsize of the level label |
+| level_labels_fontweight | Fontweigth of the level label |
+| level_labels_offset | Off-set (in the y direction) of the energy label |
+| level_labels_padding | Padding (in the x direction) of the energy label |
+| level_lines_color | If not define, color of the line level |
+| level_lines_thickness | Thickness of the level line |
+| level_lines_length | Length of the level line |
+| links_color | If not define, color of the links line |
+| links_width | Thickness of the link line |
+| links_style | Style of the link line |
+
