@@ -42,3 +42,4 @@ diagram.add_link(4, 5, color="red")
 #plot the Diagram and it save it in a "diagram.png" file
 diagram.plot()
 ```
+![diagram](https://user-images.githubusercontent.com/60096547/216622782-e3b33e9c-ee3a-49fe-b26c-f4e5daecbda8.png)
