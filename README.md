@@ -91,3 +91,6 @@ This file contains the different parameters allowing to modify the diagram, here
 | links_width | Thickness of the link line |
 | links_style | Style of the link line |
 
+## License 
+
+recaty is available under the [GNU GPL v3+] (attribution: Matthwolf@github)
